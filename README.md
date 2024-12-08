@@ -21,6 +21,7 @@ Este serviço implementa um sistema seguro de informações de pagamento com cri
 
 ## Estrutura do projeto
 
+```
 src/main/java/com/example/
 ├── Application.java
 ├── controller
@@ -37,6 +38,7 @@ src/main/java/com/example/
 │   └── PaymentInfoRepository.java
 └── service
     └── PaymentInfoService.java
+```
 
 ## Getting Started
 
