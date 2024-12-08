@@ -1,4 +1,4 @@
-# Serviço de Entidade Criptografada
+# Criptografia em um serviço de forma transparente para a API
 
 Uma aplicação Spring Boot demonstrando criptografia transparente em nível de campo para dados sensíveis em entidades JPA.
 
