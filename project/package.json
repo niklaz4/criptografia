@@ -1,0 +1,12 @@
+{
+  "name": "encrypted-entity-service",
+  "private": true,
+  "scripts": {
+    "test": "jest",
+    "start": "java -jar target/encrypted-entity-service.jar"
+  },
+  "dependencies": {
+    "@types/jest": "^29.5.5",
+    "jest": "^29.7.0"
+  }
+}
